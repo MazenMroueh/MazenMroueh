@@ -33,8 +33,8 @@ Data exploration and analytical queries using real-world datasets.
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [Your GitHub URL]
+- LinkedIn: [(https://www.linkedin.com/in/mazen-k-mroueh-427667289/)]
+- GitHub: [(https://github.com/MazenMroueh)]
 
 ---
 
