@@ -6,11 +6,11 @@ I'm building my skills in **Data Science, Data Analytics, Python, and Machine Le
 
 ### 🧰 Skills & Tools
 
-- **Python** — Pandas, NumPy, Matplotlib, Seaborn
-- **Data Analysis** — Data cleaning, EDA, visualization
-- **SQL** — querying, joins, aggregation
-- **Machine Learning** — scikit-learn
-- **Tools** — Jupyter Notebook, VS Code, Git, GitHub
+- **Python** - Pandas, NumPy, Matplotlib, Seaborn
+- **Data Analysis** - Data cleaning, EDA, visualization
+- **SQL** - querying, joins, aggregation
+- **Machine Learning** - scikit-learn
+- **Tools** - Jupyter Notebook, VS Code, Git, GitHub
 
 ### 📊 Featured Projects
 
@@ -33,8 +33,8 @@ Data exploration and analytical queries using real-world datasets.
 
 ### 📫 Connect With Me
 
-- LinkedIn: [(https://www.linkedin.com/in/mazen-k-mroueh-427667289/)]
-- GitHub: [(https://github.com/MazenMroueh)]
+- LinkedIn: [https://www.linkedin.com/in/mazen-k-mroueh-427667289/]
+- GitHub: [https://github.com/MazenMroueh]
 
 ---
 
